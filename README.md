@@ -19,7 +19,7 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-br)
 
 <a href="https://anishbr.com">
-  <img src="https://raw.githubusercontent.com/anish-b-r/anish-b-r/main/favicon" height="28" style="vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/anish-b-r/anish-b-r/main/favicon.png" height="28" style="vertical-align:middle;"/>
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge" height="28"/>
 </a>
 
