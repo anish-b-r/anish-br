@@ -1,4 +1,4 @@
-# Hi, I'm Anish 👋
+# Hi, I'm Anish BR👋
 
 AI & Machine Learning student | Builder | Digital Creator  
 
@@ -15,8 +15,10 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anish-br)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://anishbr.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-br)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://anishbr.com)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.b.ramakumar@gmail.com)
 
 ---
