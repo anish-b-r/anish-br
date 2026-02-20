@@ -36,6 +36,7 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=for-the-badge)
 
 ---
 
