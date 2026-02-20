@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&duration=2500&color=0A66C2&center=true&vCenter=true&width=600&lines=Anish+BR)](https://git.io/typing-svg)
-
-AI & Machine Learning student | Builder | Digital Creator  
+<h1 align="center">Hi, I'm Anish 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Builder+of+AI+Tools;Creating+Smart+Digital+Experiences;Always+Learning" />
+</p> 
 
 I enjoy building smart digital experiences by combining **AI, design, and strategy**.  
 My focus is on creating real-world tools, modern web experiences, and AI-powered solutions that solve meaningful problems.
@@ -17,7 +18,10 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-br)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://anishbr.com)
+<a href="https://anishbr.com">
+  <img src="https://raw.githubusercontent.com/anish-b-r/anish-b-r/main/portfolio-icon.png" height="28" style="vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge" height="28"/>
+</a>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.b.ramakumar@gmail.com)
 
