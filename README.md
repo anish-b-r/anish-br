@@ -1,4 +1,5 @@
 # Hi, I'm Anish BR👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Builder+of+AI+Tools;Creating+Smart+Digital+Experiences;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 AI & Machine Learning student | Builder | Digital Creator  
 
