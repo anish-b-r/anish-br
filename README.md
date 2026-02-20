@@ -23,7 +23,6 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.b.ramakumar@gmail.com)
 
 ---
-
 ## ⚙️ Tech Stack
 
 ### 🧠 AI, Automation & Intelligent Systems
@@ -36,7 +35,6 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=for-the-badge)
 
 ---
 
@@ -45,7 +43,6 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -66,8 +63,15 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 
 ---
 
+### ☁️ Deployment, Cloud & Infrastructure
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
 ### 🛠 Tools & Workflow
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 
 ⭐️ *Always curious. Always building. Always improving.*
