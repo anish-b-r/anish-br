@@ -27,6 +27,7 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 ## ⚙️ Tech Stack
 
 ### 🧠 AI, Automation & Intelligent Systems
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge)
 ![AI Prompting](https://img.shields.io/badge/AI%20Prompting-4B5563?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge)
