@@ -18,10 +18,7 @@ My focus is on creating real-world tools, modern web experiences, and AI-powered
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-br)
 
-<a href="https://anishbr.com">
-  <img src="https://raw.githubusercontent.com/anish-b-r/anish-b-r/main/favicon.png" height="32"/>
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge" height="32"/>
-</a>
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-1F2937?style=for-the-badge&logo=firefox&logoColor=white)](https://anishbr.com)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.b.ramakumar@gmail.com)
 
